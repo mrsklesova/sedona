@@ -2,7 +2,7 @@
 
 * Студент: [{{userName}}]({{userProfile}}).
 * Наставник: [Алексей Симоненко].
-* Сайт: [Мой проект Седона](https://mrsklesova.github.io/sedona//).
+* Сайт: [Мой проект Седона](https://mrsklesova.github.io/sedona/).
 
 ---
 
