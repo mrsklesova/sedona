@@ -2,7 +2,7 @@
 
 * Студент: [{{userName}}]({{userProfile}}).
 * Наставник: [Алексей Симоненко].
-* Сайт: [Мой проект Седона](https://mrsklesova.github.io/1083949-cat-energy-25/).
+* Сайт: [Мой проект Седона](https://mrsklesova.github.io/sedona//).
 
 ---
 
