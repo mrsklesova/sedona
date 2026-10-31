@@ -1,6 +1,6 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «Седона»
 
-* Студент: [{{userName}}]({{userProfile}}).
+* Студент: [Елена Клесова](https://htmlacademy.ru/profile/id1818577).
 * Наставник: [Алексей Симоненко].
 * Сайт: [Мой проект Седона](https://mrsklesova.github.io/sedona/).
 
